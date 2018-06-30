@@ -1,0 +1,9 @@
+target/
+*.class
+.idea/
+*.ipr
+*.iws
+.classpath
+.ensime
+.ensime_cache
+ensime.sbt
