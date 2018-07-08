@@ -1,0 +1,3 @@
+# Check that ScalazPlugin provided sbt-header as expected
+# (the template doesn't add any scala source file, so headerCheck should succeed)
+> headerCheck
